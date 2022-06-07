@@ -30,3 +30,4 @@ cmd: docker exec -it *****(container name/id) bash
 cmd: docker commit container **** id/name **** container image anme
 12:  to delete all stoped image and containes 
 cmd : docker system  prune
+13:
